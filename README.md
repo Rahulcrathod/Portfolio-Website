@@ -1,5 +1,8 @@
 # Rahul C Rathod — Portfolio
 
+#Live Site
+https://portfolio-website-student.netlify.app/
+
 This is a Vite + React + Tailwind portfolio, pre-filled with your details and two GitHub projects.
 
 ## Quick start
